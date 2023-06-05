@@ -495,4 +495,4 @@ acg.tv = server:syslib // BiliBili短网址
 ^http:\/\/103\.41\.167\.237\/v2\/resolv - reject
 
 [MITM]
-hostname = %APPEND% 119.29.29.29, amdc.alipay.com, amdc-sibling.alipay.com.cn, dns.jd.com %INSERT% -gateway.icloud.com, -weather-data.apple.com, -buy.itunes.apple.com, -pan.baidu.com
+hostname = %APPEND% 119.29.29.29, amdc.alipay.com, amdc-sibling.alipay.com.cn, dns.jd.com
